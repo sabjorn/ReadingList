@@ -32,3 +32,8 @@
 
 ### [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein)
 * Stranger in a Strange Land
+
+### [Octavia E. Butler](https://en.wikipedia.org/wiki/Octavia_E._Butler)
+* Dawn (book one of the Xenogenesis trilogy)
+* Parable of the Sower (booke one of the Earthseed series)
+* Patternist series
