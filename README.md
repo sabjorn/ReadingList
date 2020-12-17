@@ -3,7 +3,7 @@
 
 ### [Octavia E. Butler](https://en.wikipedia.org/wiki/Octavia_E._Butler)
 * Dawn (book one of the Xenogenesis trilogy)
-* Parable of the Sower (booke one of the Earthseed series)
+* Parable of the Sower (book one of the Earthseed series)
 * Patternist series
 
 ### [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)
@@ -14,6 +14,10 @@
 * The Man in the High Castle 
 * Do Androids Dream of Electric Sheep? 
 * VALIS 
+
+### [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)
+* The Left Hand of Darkness
+* The Dispossessed
 
 ### [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)
 * Neuromancer (book one of Sprawl trilogy)
@@ -37,3 +41,7 @@
 * Slaughter House Five
 * Cat's Cradle
 * The Sirens of Titan
+
+## Magical Realism
+### [Gabriel García Márquez](https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez) 
+* One Hundred Years of Solitude
