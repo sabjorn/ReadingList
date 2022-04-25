@@ -45,3 +45,9 @@
 ## Magical Realism
 ### [Gabriel García Márquez](https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez) 
 * One Hundred Years of Solitude
+
+## Dance Culture (non-fiction)
+### [Tim Lawrence](https://www.timlawrence.info/)
+* Love Saves the Day: A History of American Dance Music Culture, 1970-1979
+* Life and Death on the New York Dance Floor, 1980–1983
+
